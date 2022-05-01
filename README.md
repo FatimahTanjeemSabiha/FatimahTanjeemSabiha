@@ -1,8 +1,6 @@
-<img src= "https://github.com/FatimahTanjeemSabiha/FatimahTanjeemSabiha/blob/main/WhatsApp%20Image%202022-05-01%20at%209.22.15%20PM(1).jpeg">
 ### Hi there 👋, This is Fatimah Tanjeem Sabiha
 #### Student-Programmer-Coder
-![Student-Programmer-Coder](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+<img src= "https://github.com/FatimahTanjeemSabiha/FatimahTanjeemSabiha/blob/main/WhatsApp%20Image%202022-05-01%20at%209.22.15%20PM(1).jpeg">
 I'm pursuing my BSc in Computer Science and Engineering at Leading University, Sylhet. I love doing programming and reading books. 
 
 Skills: **C, C++, HTML, Java, Java Swing, MATLAB, Flutter and Dart.**
