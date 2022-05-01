@@ -3,7 +3,7 @@
 <img src= "https://github.com/FatimahTanjeemSabiha/FatimahTanjeemSabiha/blob/main/WhatsApp%20Image%202022-05-01%20at%209.22.15%20PM(1).jpeg">
 I'm pursuing my BSc in Computer Science and Engineering at Leading University, Sylhet. I love doing programming and reading books. 
 
-Skills: **C, C++, HTML, Java, Java Swing, MATLAB, Flutter and Dart.**
+Skills: **C, C++, HTML, Java, Java Swing, MYSQL, MATLAB, Flutter and Dart.**
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Dart 
