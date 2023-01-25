@@ -7,7 +7,7 @@ Skills: **C, C++, HTML, Java, Java Swing, MYSQL, MONGODB, MATLAB, Flutter and Da
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Dart 
-- 📫 How to reach me: ftsabiha@gmail.com 
+- 📫 How to reach me: tanjeemsabiha@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FatimahTanjeemSabiha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fatimah-tanjeem-sabiha-9b7712216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thequiescent__/)  
